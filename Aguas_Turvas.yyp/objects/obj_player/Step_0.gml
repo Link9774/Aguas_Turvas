@@ -6,3 +6,4 @@ _up = keyboard_check(imputs.up);
 
 velv = (_right - _left)* vel;
 velh = (_down - _up)* vel;
+

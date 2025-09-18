@@ -1,0 +1,11 @@
+*.yyz
+*.yyp~
+*.log
+*.tmp
+*.autosave
+
+*/output/*
+*/cache/*
+
+.DS_Store
+Thumbs.d

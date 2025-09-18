@@ -18,6 +18,6 @@ if(_col){
 		}
 		velh = 0;
 	}
-
+	
 x += velv;
 y += velh;
